@@ -1,0 +1,89 @@
+body{
+	width: 1920px;
+	margin: 0 auto;
+}
+.wrapper{
+	width: 1140px;
+	margin: 0 auto;
+
+}
+footer{
+	height: 1280px;
+	background: url(../img/footerbg.jpg) no-repeat;
+	
+}
+
+footer .wrapper .text-block{
+	padding-top: 100px;
+}
+footer h1{
+	font-size: 30px;
+	text-transform: uppercase;
+}
+footer .row1{
+	width: 46%;
+	float: left;
+}
+footer .row2{
+	width: 46%;
+	float: right;
+}
+footer h1{
+    text-align: center;
+}
+footer p{
+    padding-top: 10px;
+	font-size: 18px;
+	color: #bcbcbc;
+}
+footer img{
+	border-radius: 50%;
+	display: inline-block;
+	float: left;
+}
+footer h2{
+    float: left;
+    margin-left: 30px;
+	font-size: 18px;
+	color: #36aeea;
+	font-weight: bold;
+	display: inline-block;
+}
+footer h2 span{
+	font-weight: normal;
+}
+.form{
+	text-align: center;
+	width: 515px;
+	height: 495px;
+	background: #c6d0d5;
+	border-radius: 3px;
+	margin-left: 706px;
+	margin-top: 460px;
+}
+.form-row input{
+	width: 454px;
+	height: 60px;
+	border-radius: 3px;
+	border: none;
+	margin-top: 20px;
+	padding-left: 10px;
+}
+.form-row input[type="submit"]{
+    width: 466px;
+	height: 70px;
+	border-radius: 3px;
+	border: none;
+	background: #36aeea;
+	color: #fff;
+	text-transform: uppercase;
+}
+.form-row h1{
+	padding-top: 20px;
+	color: #36aeea;
+	text-transform: uppercase;
+}
+.form-row p{
+	color: #000;
+}
+
